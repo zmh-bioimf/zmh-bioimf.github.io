@@ -1,4 +1,3 @@
-# zmh-bioimf.github.io
 # 生物信息学实践-zmh
 ## Class 1st
 模型和算法是在机器学习领域经常被提起的两个术语
